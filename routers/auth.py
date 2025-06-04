@@ -1,11 +1,11 @@
 from fastapi import APIRouter,Depends, HTTPException, Request
 from pydantic import BaseModel
 from starlette import status
-from models import User
+from ..models import User
 from passlib.context import CryptContext #Bu işlemi hashlemek için kullanırız.
 from typing import Annotated
 from fastapi.security import OAuth2PasswordRequestForm,OAuth2PasswordBearer #Hackerın sisteme sızmasını engellemek için bu işlemi yaparız.
-from database import SessionLocal
+from ..database import SessionLocal #Models dosyasına erişebilmek için iki nokta konulması gerekiyor.
 from sqlalchemy.orm import Session
 from jose import jwt,JWTError
 from datetime import timedelta,datetime, timezone
@@ -16,7 +16,7 @@ router = APIRouter(
     tags=["Authentication"],
 )
 
-templates = Jinja2Templates(directory="templates")
+templates = Jinja2Templates(directory="app/templates")
 
 SECRET_KEY = "47k5bocazjgh0r8hje8bvrrn0a71wf7q" #Random.org dan 32 karakterli string yazdırılabilir.
 ALGORITHYM = "HS256" #Genelde piyasada en çok tercih edilen algoritmadır.
