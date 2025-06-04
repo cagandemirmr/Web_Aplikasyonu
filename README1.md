@@ -390,3 +390,5 @@ Relative import and Abs : https://www.youtube.com/watch?v=S6vL5Smy8EA&t=414s
 Google Cloud: https://www.youtube.com/watch?v=2icBXgHDZ2Y&t=601s
 
 Docker kurulumu: https://www.youtube.com/watch?v=xhrg8m9su5o&t=525s
+
+Canlıya almak: https://www.youtube.com/watch?v=hRWcnfakDoI&t=309s
