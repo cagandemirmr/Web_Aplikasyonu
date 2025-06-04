@@ -392,3 +392,8 @@ Google Cloud: https://www.youtube.com/watch?v=2icBXgHDZ2Y&t=601s
 Docker kurulumu: https://www.youtube.com/watch?v=xhrg8m9su5o&t=525s
 
 Canlıya almak: https://www.youtube.com/watch?v=hRWcnfakDoI&t=309s
+
+SSL ve Postgre: letsencyrpt ten istediğimiz gibi SSL sertifikasını ücretsiz alabiliriz. https://www.youtube.com/watch?v=t8E5vH_Izi4&t=402s
+
+Model Garden:
+
