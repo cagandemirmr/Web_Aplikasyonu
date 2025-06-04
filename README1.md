@@ -377,11 +377,16 @@ Tüm sayfaları renderlamak: https://www.youtube.com/watch?v=zWLMmzOiiDw&t=511s
 
 # Gemini
 Gemini_API_Key : https://www.youtube.com/watch?v=AXignG8nknA&t=356s
+
 Langchain entegrasyonu : https://www.youtube.com/watch?v=kTzr7sNwDH0&t=475s
+
 Tanım kısmını Gemini a yazdırmak: https://www.youtube.com/watch?v=QWByvNHZu5E
 
 # Docker
 Docker: https://www.youtube.com/watch?v=rxrU81dOskQ&t=376s
+
 Relative import and Abs : https://www.youtube.com/watch?v=S6vL5Smy8EA&t=414s
+
 Google Cloud: https://www.youtube.com/watch?v=2icBXgHDZ2Y&t=601s
+
 Docker kurulumu: https://www.youtube.com/watch?v=xhrg8m9su5o&t=525s
