@@ -395,5 +395,5 @@ Canlıya almak: https://www.youtube.com/watch?v=hRWcnfakDoI&t=309s
 
 SSL ve Postgre: letsencyrpt ten istediğimiz gibi SSL sertifikasını ücretsiz alabiliriz. https://www.youtube.com/watch?v=t8E5vH_Izi4&t=402s
 
-Model Garden:
+Model Garden: https://www.youtube.com/watch?v=7yw_JCrg498&t=687s
 
