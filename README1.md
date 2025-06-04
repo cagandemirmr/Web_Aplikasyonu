@@ -384,3 +384,4 @@ Tanım kısmını Gemini a yazdırmak: https://www.youtube.com/watch?v=QWByvNHZu
 Docker: https://www.youtube.com/watch?v=rxrU81dOskQ&t=376s
 Relative import and Abs : https://www.youtube.com/watch?v=S6vL5Smy8EA&t=414s
 Google Cloud: https://www.youtube.com/watch?v=2icBXgHDZ2Y&t=601s
+Docker kurulumu: https://www.youtube.com/watch?v=xhrg8m9su5o&t=525s
