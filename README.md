@@ -46,6 +46,8 @@ POST /create-task
 }
 ```
 
+---
+
 🧠 How Gemini is Used
 
 Gemini LLM is used to:
@@ -55,6 +57,8 @@ Gemini LLM is used to:
 - Extract tasks and deadlines
 
 - Generate helpful suggestions or auto-prioritize tasks
+
+---
 
 📚 Project Context
 This project was built during the Google Yapay Zeka Akademisi (Google AI Academy), as a practical exercise in combining LLMs with real-world applications using FastAPI.
